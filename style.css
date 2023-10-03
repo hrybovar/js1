@@ -2,3 +2,8 @@ h1{
     color: red;
     font-size: 46px;
 }
+p{
+    color:yellow;
+    font-size: 40px;
+    margin: auto;
+}
